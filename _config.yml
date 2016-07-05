@@ -1,6 +1,6 @@
 name: James Matson
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26901
 typography_spectrum: 0.77113
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#ae8750'
     - '#b8b991'
     - '#eaecd4'
-  brandStrength: 0.6875
-  lightness: 0.3125
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.625
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
